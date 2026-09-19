@@ -1,1 +1,11 @@
 # weather-cli
+
+# weather-cli
+
+A simple command-line weather checker. Built this while learning Go.
+
+## Why I made this
+Wanted a small project to actually practice Go instead of just doing tutorials.
+Built it after moving to Pune for college — first "real" project, be nice 😅
+
+## Usage
