@@ -30,7 +30,7 @@ func main() {
 	}
 
 	// TODO: move this to env var before pushing, keep forgetting lol
-	apiKey := "YOUR_API_KEY_HERE"
+	apiKey := "758493fhjdkstyrue57483"
 	url := fmt.Sprintf("https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s&units=metric", *city, apiKey)
 
 	resp, err := http.Get(url)
